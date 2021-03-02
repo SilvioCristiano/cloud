@@ -5,11 +5,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CursomcApplication implements CommandLineRunner{
+public class CloudApplication implements CommandLineRunner{
 
 	
 	public static void main(String[] args) {
-		SpringApplication.run(CursomcApplication.class, args);
+		SpringApplication.run(CloudApplication.class, args);
 	}
 
 	
